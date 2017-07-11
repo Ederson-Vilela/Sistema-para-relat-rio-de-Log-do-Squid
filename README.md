@@ -1,1 +1,1 @@
-# Sistema-para-relat-rio-de-Log-do-Squid
+# O Código será disponibilizado em breve
