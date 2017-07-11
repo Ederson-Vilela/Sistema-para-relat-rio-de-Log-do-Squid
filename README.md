@@ -1,0 +1,1 @@
+# Sistema-para-relat-rio-de-Log-do-Squid
